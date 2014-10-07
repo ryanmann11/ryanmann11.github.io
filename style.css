@@ -1,7 +1,10 @@
 body {
- font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  background: url(graffiti.jpg) repeat;
+ 	font-family: 'Raleway', sans-serif;
+  	font-weight: 300;
+ 	background-image: url(Graffiti.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
 }
 #wrapper {
   width: 960px;
