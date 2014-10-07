@@ -27,6 +27,7 @@ h2{
 h4{
 	font-family: 'Special Elite', cursive;
 	font-size: 40px;
+	line-height: 50%;
 }
 
 h5{
@@ -41,7 +42,7 @@ p{
 }
 
 p, li {
-	line-height: 150%;
+	line-height: 200%;
 }
 
 div#wrapper {
