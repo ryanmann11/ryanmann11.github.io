@@ -30,7 +30,6 @@ div#wrapper {
 	padding:; 20px;
 	}
 img {
-	border: 10px solid grey;
-	border-radius: 50px;
-	float: none;
+	border: 10px solid black;
+	border-radius: 20px;
 }
