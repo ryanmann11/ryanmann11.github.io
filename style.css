@@ -1,19 +1,22 @@
 body {
  font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  background: url(bestgray.jpg) repeat;
+  background: url(graffiti.jpg) repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto;
 }
 h1{
-	font-size: 36px;
+	font-size: 75px;
 	font-style: oblique;
 	font-family: Bangers;
 }
 h2{
-	font-size: 30px;
+	font-size: 75px;
 	font-style: oblique;
 	font-family: Bangers;
+}
+div#ryan{
+	font-family: Special+Elite;
 }
