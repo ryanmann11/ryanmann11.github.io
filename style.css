@@ -6,23 +6,28 @@ body {
 	background-position: center center;
 	background-attachment: fixed;
 }
+
 #wrapper {
   width: 960px;
-  margin: 20px auto;
+  margin: 50px auto;
 }
+
 h1{
 	font-size: 75px;
 	font-style: oblique;
 	font-family: Bangers;
 }
+
 h2{
 	font-size: 75px;
 	font-style: oblique;
 	font-family: Bangers;
 }
+
 h4{
 	font-family: Special+Elite;
 }
+
 div#wrapper {
 	background-color: white;
 	width: 960px;
