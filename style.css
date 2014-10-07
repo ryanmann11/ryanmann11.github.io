@@ -60,3 +60,8 @@ img {
 a:hover {
 	color: green;
 }
+
+p.close {
+    height: 5px;
+    width: 5px;
+}
