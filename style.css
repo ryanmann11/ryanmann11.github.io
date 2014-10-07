@@ -41,7 +41,7 @@ p{
 
 div#wrapper {
 	background-color: white;
-	background: transparent;
+	opacity: .5;
 	width: 960px;
 	margin: 20px auto;
 	padding:; 20px;
