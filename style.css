@@ -55,3 +55,7 @@ img {
 	border: 10px solid black;
 	float: right;
 }
+
+a:hover {
+	color: green;
+}
