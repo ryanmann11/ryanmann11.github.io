@@ -49,4 +49,5 @@ div#wrapper {
 
 img {
 	border: 10px solid black;
+	float: right;
 }
