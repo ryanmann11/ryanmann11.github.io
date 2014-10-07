@@ -39,6 +39,10 @@ p{
 	font-size: 20px;
 }
 
+p, li {
+	line-height: 26px;
+}
+
 div#wrapper {
 	background-color: white;
 	opacity: .7;
