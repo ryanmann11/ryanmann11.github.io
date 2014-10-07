@@ -38,13 +38,10 @@ h5{
 p{
 	font-size: 20px;
 }
-div#written
-{
-	text-indent: 20px;
-}
 
 div#wrapper {
 	background-color: white;
+	background: transparent;
 	width: 960px;
 	margin: 20px auto;
 	padding:; 20px;
