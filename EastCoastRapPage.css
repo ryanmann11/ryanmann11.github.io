@@ -12,7 +12,6 @@ body {
   margin: 50px auto;
   padding-left: 20px;
   padding-right: 20px;
-  padding-bottom: 20px;
 }
 
 h1{
@@ -22,9 +21,8 @@ h1{
 }
 
 h2{
-	font-size: 75px;
-	font-style: oblique;
-	font-family: Bangers;
+	font-size: 40px;
+	font-family: 'Special Elite', cursive;
 }
 
 h4{
@@ -47,6 +45,7 @@ p, li {
 	line-height: 200%;
 }
 
+
 div#wrapper {
 	background-color: white;
 	opacity: .8;
@@ -56,11 +55,19 @@ div#wrapper {
 	}
 
 img {
-	border: 10px solid black;
+	border: 5px solid black;
+	border-radius: 999999999px;
 	float: right;
-}
+	}
 
 a:hover {
 	color: green;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
