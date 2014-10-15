@@ -16,13 +16,13 @@ body {
 }
 
 h1{
-	font-size: 75px;
+	font-size: 100px;
 	font-style: oblique;
 	font-family: Bangers;
 }
 
 h2{
-	font-size: 75px;
+	font-size: 40px;
 	font-style: oblique;
 	font-family: Bangers;
 }
@@ -37,6 +37,12 @@ h5{
 	font-style: italic;
 	font-weight: bold;
 }
+
+h6{
+	font-family: 'Special Elite', cursive;
+	font-size: 40px;
+}
+
 
 p{
 	font-size: 20px;
