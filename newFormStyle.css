@@ -12,6 +12,11 @@ img {
 	max-height:100%;
 }
 
+#wrapper {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+}
 body {
  	font-family: 'Raleway', sans-serif;
   	font-weight: 300;
@@ -88,7 +93,6 @@ table, th, td {
 
 th, td {
     padding: 5px;
-  }
 
 
     
